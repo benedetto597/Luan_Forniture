@@ -6,10 +6,10 @@
 ## Julio 2022
 ### Autores
 
-| Nombre | Identidad | Correo |
-|:-------------:| :-----:|:-----:|
-| Edgar Josué Benedetto Godoy | `0801-1997-23600` | [Gmail](mailto:ejbg597@gmail.com) |
-| Giovany David Luque Andino  | `0801-1998-05428` | [Gmail](mailto:luque.cadeca@gmail.com) |
+| Nombre | Correo |
+|:---:|:---:|
+| Edgar Josué Benedetto Godoy | [Gmail](mailto:ejbg597@gmail.com) |
+| Giovany David Luque Andino  | [Gmail](mailto:luque.cadeca@gmail.com) |
 
 <!-- ## Resultado final
 [Probar aplicación](https://productsbydepartment.herokuapp.com/) -->
